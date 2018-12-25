@@ -1,0 +1,50 @@
+[Geometry]
+geometry/Convex-Hull.cpp	Convex Hull
+geometry/point-in-poly-O(n).cpp	Point inside polygon
+geometry/welzian.cpp	Welzian algo
+
+
+[Graphs]
+graph/Articulation-and-Bridge-Points.cpp	Articulation and Bridge points
+graph/Dijkstra.cpp	Dijkstra
+graph/LCA.cpp	LCA
+
+[Flows]
+flows/Bipartite.cpp	Bipartite
+flows/Max-Flow.cpp	Max-Flow
+flows/MCMF.cpp	MCMF
+
+[Tree]
+trees/BIT.cpp	BIT
+trees/Segtree.cpp	Segment Tree
+trees/Lazy-Segtree.cpp	Lazy-Segment Tree
+trees/policytree.cpp	Policy Tree
+trees/Trie.cpp	Trie
+
+[Math]
+math/crt.cpp	CRT
+math/digitdp.cpp	DigitDP
+math/dpdnc.cpp	DP DNC
+math/Euclidean.cpp	Euclidean
+math/factors-in-n-1-3.cpp	Factors in n-1-3
+math/Fibo-LogN.cpp	Fibo logn
+math/gaussian.cpp	EGaussian Algorithm
+math/lucasthm.cpp	Lucas theorem
+math/matrexpo.cpp	Matrix expo
+math/Miller-Rabin.cpp	Miller-Rabin
+math/mobius.cpp	Mobius
+math/sqrt-cbrt-tourist.cpp	SQRT CBRT tourist
+math/totient.cpp	Euler totient
+math/fft.cpp	FFT
+math/fftdnc.cpp	FFT-DNC
+
+[Strings]
+string/KMP.cpp	Knuth-Morris-Pratt Algorithm
+string/Suffix.cpp	Suffix array
+string/z-function.cpp	z-function
+
+[EZPZ]
+misc/Template.cpp	Template
+misc/fastio.cpp	fast io
+misc/lisnlogn.cpp	LIS nlogn
+misc/MO.cpp	MOs
