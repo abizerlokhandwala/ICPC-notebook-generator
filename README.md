@@ -17,4 +17,5 @@ Note that there is a tab between the filename and its description. You shouldn't
 
 The generator script can add text highlighting for the following file formats : `.h, .c, .cc, .cpp, .java, .py`
 
-Once the `contents.txt` file is ready, the notebook can be generated using `python generator.py [python|cpp]` (Eg: `python generator.py cpp`, if you want to generate using the cpp folder codes)
+Once the `contents.txt` file is ready, the notebook can be generated using `python generator.py [python|cpp]`  
+(Eg: `python generator.py cpp`, if you want to generate using the cpp folder codes)
