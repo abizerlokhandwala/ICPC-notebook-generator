@@ -1,7 +1,8 @@
-# ICPC-Notebook
-ICPC notebook generator, with font size 11 and code-color schema.  
+# ICPC-Notebook-Generator
+ICPC notebook generator, with font size 11, two columns a page and color-code schema.
 Notebook for Indian teams at ACM ICPC. Sources are mainly from the Stanford University ACM team.
 Fixed the tex error (missing 'tocloft.ins').
+Notebook belongs to team CygnusAlpha, Pune Institute of Computer Technology.
 
 # Usage
 C++ and Python notebook files are located in the cpp/ and python/ directories, respectively.
