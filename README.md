@@ -5,6 +5,8 @@ Fixed the tex error (missing 'tocloft.ins').
 Notebook belongs to team CygnusAlpha, Pune Institute of Computer Technology.  
 
 # Usage
+Make sure you have `latexmk` installed.  
+For Ubuntu: `sudo apt install latexmk`  
 C++ and Python notebook files are located in the cpp/ and python/ directories, respectively.
 To add files and sections to a notebook, add it to a subfolder and add it to the corresponding `contents.txt` file.
 
